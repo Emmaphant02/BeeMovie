@@ -1,0 +1,25 @@
+/* This is how to comment*/
+
+h1{
+    background-color: bisque;
+    color: rgb(0, 130, 87);
+}
+#beePara
+{
+    color: rgb(80, 3, 3);
+    background-image: url("images/Honeycomb.jpg");
+}
+button.pos{
+    color: rgb(88, 147, 0);
+    background-color: greenyellow;
+    border-color: rgb(88, 147, 0);
+    border-radius: 6px;
+    margin-left: 35px;
+}
+button.neg{
+    color: red;
+    background-color: pink;
+    border-color: red;
+    border-radius: 6px;
+    margin-left: 20px;
+}
